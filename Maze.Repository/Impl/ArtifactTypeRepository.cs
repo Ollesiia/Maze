@@ -6,7 +6,6 @@ namespace Maze.Repository.Impl
     {
         static ArtifactTypeRepository()
         {
-            //initial data for preview
             ArtifactType artifactType1 = new ArtifactType
             {
                 Name = "Key",

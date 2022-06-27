@@ -27,7 +27,6 @@ namespace Maze.Entity
 
         }
 
-        //ToDo: write more informative 
         public override string ToString()
         {
             return "Name: " + Name;

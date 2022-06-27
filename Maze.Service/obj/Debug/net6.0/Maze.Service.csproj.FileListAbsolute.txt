@@ -1,0 +1,17 @@
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Service\bin\Debug\net6.0\Maze.Service.deps.json
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Service\bin\Debug\net6.0\Maze.Service.dll
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Service\bin\Debug\net6.0\Maze.Service.pdb
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Service\bin\Debug\net6.0\Maze.Entity.dll
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Service\bin\Debug\net6.0\Maze.Repository.dll
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Service\bin\Debug\net6.0\Maze.Entity.pdb
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Service\bin\Debug\net6.0\Maze.Repository.pdb
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Service\obj\Debug\net6.0\Maze.Service.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Service\obj\Debug\net6.0\Maze.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Service\obj\Debug\net6.0\Maze.Service.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Service\obj\Debug\net6.0\Maze.Service.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Service\obj\Debug\net6.0\Maze.Service.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Service\obj\Debug\net6.0\Maze.Service.csproj.CopyComplete
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Service\obj\Debug\net6.0\Maze.Service.dll
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Service\obj\Debug\net6.0\refint\Maze.Service.dll
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Service\obj\Debug\net6.0\Maze.Service.pdb
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Service\obj\Debug\net6.0\ref\Maze.Service.dll

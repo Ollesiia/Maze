@@ -6,7 +6,7 @@ namespace Maze.Repository.Impl
     {
         static LevelRepository()
         {
-            //initial data for preview
+
             Level level1 = new Level
             {
                 Name = "Maze1",

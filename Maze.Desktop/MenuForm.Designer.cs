@@ -52,9 +52,10 @@
             // 
             // CreateLevelBtn
             // 
-            this.CreateLevelBtn.Location = new System.Drawing.Point(34, 43);
+            this.CreateLevelBtn.Location = new System.Drawing.Point(30, 32);
+            this.CreateLevelBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.CreateLevelBtn.Name = "CreateLevelBtn";
-            this.CreateLevelBtn.Size = new System.Drawing.Size(186, 50);
+            this.CreateLevelBtn.Size = new System.Drawing.Size(163, 46);
             this.CreateLevelBtn.TabIndex = 0;
             this.CreateLevelBtn.Text = "Create level";
             this.CreateLevelBtn.UseVisualStyleBackColor = true;
@@ -62,26 +63,29 @@
             // 
             // NameTxb
             // 
-            this.NameTxb.Location = new System.Drawing.Point(280, 43);
+            this.NameTxb.Location = new System.Drawing.Point(245, 32);
+            this.NameTxb.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.NameTxb.Name = "NameTxb";
-            this.NameTxb.Size = new System.Drawing.Size(125, 27);
+            this.NameTxb.Size = new System.Drawing.Size(110, 23);
             this.NameTxb.TabIndex = 1;
             // 
             // LevelsLbx
             // 
             this.LevelsLbx.FormattingEnabled = true;
-            this.LevelsLbx.ItemHeight = 20;
-            this.LevelsLbx.Location = new System.Drawing.Point(523, 43);
+            this.LevelsLbx.ItemHeight = 15;
+            this.LevelsLbx.Location = new System.Drawing.Point(458, 32);
+            this.LevelsLbx.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.LevelsLbx.Name = "LevelsLbx";
-            this.LevelsLbx.Size = new System.Drawing.Size(310, 224);
+            this.LevelsLbx.Size = new System.Drawing.Size(272, 169);
             this.LevelsLbx.TabIndex = 2;
             this.LevelsLbx.SelectedIndexChanged += new System.EventHandler(this.LevelsLbx_SelectedIndexChanged);
             // 
             // RemoveLevelBtn
             // 
-            this.RemoveLevelBtn.Location = new System.Drawing.Point(34, 160);
+            this.RemoveLevelBtn.Location = new System.Drawing.Point(30, 115);
+            this.RemoveLevelBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.RemoveLevelBtn.Name = "RemoveLevelBtn";
-            this.RemoveLevelBtn.Size = new System.Drawing.Size(186, 50);
+            this.RemoveLevelBtn.Size = new System.Drawing.Size(163, 47);
             this.RemoveLevelBtn.TabIndex = 3;
             this.RemoveLevelBtn.Text = "Remove level";
             this.RemoveLevelBtn.UseVisualStyleBackColor = true;
@@ -89,9 +93,10 @@
             // 
             // UpdateLevelBtn
             // 
-            this.UpdateLevelBtn.Location = new System.Drawing.Point(34, 259);
+            this.UpdateLevelBtn.Location = new System.Drawing.Point(30, 207);
+            this.UpdateLevelBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.UpdateLevelBtn.Name = "UpdateLevelBtn";
-            this.UpdateLevelBtn.Size = new System.Drawing.Size(186, 50);
+            this.UpdateLevelBtn.Size = new System.Drawing.Size(163, 47);
             this.UpdateLevelBtn.TabIndex = 4;
             this.UpdateLevelBtn.Text = "Update level";
             this.UpdateLevelBtn.UseVisualStyleBackColor = true;
@@ -99,98 +104,104 @@
             // 
             // ColorTxb
             // 
-            this.ColorTxb.Location = new System.Drawing.Point(280, 109);
+            this.ColorTxb.Location = new System.Drawing.Point(245, 82);
+            this.ColorTxb.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ColorTxb.Name = "ColorTxb";
-            this.ColorTxb.Size = new System.Drawing.Size(125, 27);
+            this.ColorTxb.Size = new System.Drawing.Size(110, 23);
             this.ColorTxb.TabIndex = 5;
             // 
             // ComplexityTxb
             // 
-            this.ComplexityTxb.Location = new System.Drawing.Point(280, 168);
+            this.ComplexityTxb.Location = new System.Drawing.Point(245, 126);
+            this.ComplexityTxb.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ComplexityTxb.Name = "ComplexityTxb";
-            this.ComplexityTxb.Size = new System.Drawing.Size(125, 27);
+            this.ComplexityTxb.Size = new System.Drawing.Size(110, 23);
             this.ComplexityTxb.TabIndex = 6;
             // 
             // HeightTxb
             // 
-            this.HeightTxb.Location = new System.Drawing.Point(280, 238);
+            this.HeightTxb.Location = new System.Drawing.Point(245, 178);
+            this.HeightTxb.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.HeightTxb.Name = "HeightTxb";
-            this.HeightTxb.Size = new System.Drawing.Size(125, 27);
+            this.HeightTxb.Size = new System.Drawing.Size(110, 23);
             this.HeightTxb.TabIndex = 7;
             // 
             // WeightTxb
             // 
-            this.WeightTxb.Location = new System.Drawing.Point(280, 294);
+            this.WeightTxb.Location = new System.Drawing.Point(245, 220);
+            this.WeightTxb.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.WeightTxb.Name = "WeightTxb";
-            this.WeightTxb.Size = new System.Drawing.Size(125, 27);
+            this.WeightTxb.Size = new System.Drawing.Size(110, 23);
             this.WeightTxb.TabIndex = 8;
             // 
             // PointsTxb
             // 
-            this.PointsTxb.Location = new System.Drawing.Point(280, 346);
+            this.PointsTxb.Location = new System.Drawing.Point(245, 260);
+            this.PointsTxb.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.PointsTxb.Name = "PointsTxb";
-            this.PointsTxb.Size = new System.Drawing.Size(125, 27);
+            this.PointsTxb.Size = new System.Drawing.Size(110, 23);
             this.PointsTxb.TabIndex = 9;
             // 
             // NameLbl
             // 
             this.NameLbl.AutoSize = true;
-            this.NameLbl.Location = new System.Drawing.Point(426, 50);
+            this.NameLbl.Location = new System.Drawing.Point(373, 38);
             this.NameLbl.Name = "NameLbl";
-            this.NameLbl.Size = new System.Drawing.Size(46, 20);
+            this.NameLbl.Size = new System.Drawing.Size(37, 15);
             this.NameLbl.TabIndex = 10;
             this.NameLbl.Text = "name";
             // 
             // ColorLbl
             // 
             this.ColorLbl.AutoSize = true;
-            this.ColorLbl.Location = new System.Drawing.Point(426, 116);
+            this.ColorLbl.Location = new System.Drawing.Point(373, 87);
             this.ColorLbl.Name = "ColorLbl";
-            this.ColorLbl.Size = new System.Drawing.Size(43, 20);
+            this.ColorLbl.Size = new System.Drawing.Size(34, 15);
             this.ColorLbl.TabIndex = 11;
             this.ColorLbl.Text = "color";
             // 
             // ComplexityLbl
             // 
             this.ComplexityLbl.AutoSize = true;
-            this.ComplexityLbl.Location = new System.Drawing.Point(426, 175);
+            this.ComplexityLbl.Location = new System.Drawing.Point(373, 131);
             this.ComplexityLbl.Name = "ComplexityLbl";
-            this.ComplexityLbl.Size = new System.Drawing.Size(82, 20);
+            this.ComplexityLbl.Size = new System.Drawing.Size(66, 15);
             this.ComplexityLbl.TabIndex = 12;
             this.ComplexityLbl.Text = "complexity";
             // 
             // HeightLbl
             // 
             this.HeightLbl.AutoSize = true;
-            this.HeightLbl.Location = new System.Drawing.Point(426, 245);
+            this.HeightLbl.Location = new System.Drawing.Point(373, 184);
             this.HeightLbl.Name = "HeightLbl";
-            this.HeightLbl.Size = new System.Drawing.Size(51, 20);
+            this.HeightLbl.Size = new System.Drawing.Size(41, 15);
             this.HeightLbl.TabIndex = 13;
             this.HeightLbl.Text = "height";
             // 
             // WeightLbl
             // 
             this.WeightLbl.AutoSize = true;
-            this.WeightLbl.Location = new System.Drawing.Point(426, 301);
+            this.WeightLbl.Location = new System.Drawing.Point(373, 226);
             this.WeightLbl.Name = "WeightLbl";
-            this.WeightLbl.Size = new System.Drawing.Size(54, 20);
+            this.WeightLbl.Size = new System.Drawing.Size(43, 15);
             this.WeightLbl.TabIndex = 14;
             this.WeightLbl.Text = "weight";
             // 
             // PointsLbl
             // 
             this.PointsLbl.AutoSize = true;
-            this.PointsLbl.Location = new System.Drawing.Point(426, 353);
+            this.PointsLbl.Location = new System.Drawing.Point(373, 265);
             this.PointsLbl.Name = "PointsLbl";
-            this.PointsLbl.Size = new System.Drawing.Size(50, 20);
+            this.PointsLbl.Size = new System.Drawing.Size(40, 15);
             this.PointsLbl.TabIndex = 15;
             this.PointsLbl.Text = "points";
             // 
             // DoorsBtn
             // 
-            this.DoorsBtn.Location = new System.Drawing.Point(523, 300);
+            this.DoorsBtn.Location = new System.Drawing.Point(458, 225);
+            this.DoorsBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.DoorsBtn.Name = "DoorsBtn";
-            this.DoorsBtn.Size = new System.Drawing.Size(134, 44);
+            this.DoorsBtn.Size = new System.Drawing.Size(117, 33);
             this.DoorsBtn.TabIndex = 16;
             this.DoorsBtn.Text = "Doors";
             this.DoorsBtn.UseVisualStyleBackColor = true;
@@ -198,9 +209,10 @@
             // 
             // ArtifactsBtn
             // 
-            this.ArtifactsBtn.Location = new System.Drawing.Point(702, 301);
+            this.ArtifactsBtn.Location = new System.Drawing.Point(614, 226);
+            this.ArtifactsBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ArtifactsBtn.Name = "ArtifactsBtn";
-            this.ArtifactsBtn.Size = new System.Drawing.Size(131, 43);
+            this.ArtifactsBtn.Size = new System.Drawing.Size(115, 32);
             this.ArtifactsBtn.TabIndex = 17;
             this.ArtifactsBtn.Text = "Artifacts";
             this.ArtifactsBtn.UseVisualStyleBackColor = true;
@@ -208,9 +220,10 @@
             // 
             // CloseBtn
             // 
-            this.CloseBtn.Location = new System.Drawing.Point(860, 2);
+            this.CloseBtn.Location = new System.Drawing.Point(752, 2);
+            this.CloseBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.CloseBtn.Name = "CloseBtn";
-            this.CloseBtn.Size = new System.Drawing.Size(94, 29);
+            this.CloseBtn.Size = new System.Drawing.Size(82, 22);
             this.CloseBtn.TabIndex = 35;
             this.CloseBtn.Text = "Close";
             this.CloseBtn.UseVisualStyleBackColor = true;
@@ -218,9 +231,10 @@
             // 
             // WallsBtn
             // 
-            this.WallsBtn.Location = new System.Drawing.Point(523, 357);
+            this.WallsBtn.Location = new System.Drawing.Point(458, 268);
+            this.WallsBtn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.WallsBtn.Name = "WallsBtn";
-            this.WallsBtn.Size = new System.Drawing.Size(134, 44);
+            this.WallsBtn.Size = new System.Drawing.Size(117, 33);
             this.WallsBtn.TabIndex = 36;
             this.WallsBtn.Text = "Walls";
             this.WallsBtn.UseVisualStyleBackColor = true;
@@ -228,9 +242,9 @@
             // 
             // MenuForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(954, 413);
+            this.ClientSize = new System.Drawing.Size(835, 310);
             this.ControlBox = false;
             this.Controls.Add(this.WallsBtn);
             this.Controls.Add(this.CloseBtn);
@@ -252,6 +266,7 @@
             this.Controls.Add(this.LevelsLbx);
             this.Controls.Add(this.NameTxb);
             this.Controls.Add(this.CreateLevelBtn);
+            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "MenuForm";
             this.Text = "MenuForm";
             this.Load += new System.EventHandler(this.MenuForm_Load);

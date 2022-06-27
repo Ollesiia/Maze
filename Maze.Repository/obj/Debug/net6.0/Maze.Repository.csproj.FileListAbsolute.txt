@@ -1,0 +1,15 @@
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Repository\bin\Debug\net6.0\Maze.Repository.deps.json
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Repository\bin\Debug\net6.0\Maze.Repository.dll
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Repository\bin\Debug\net6.0\Maze.Repository.pdb
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Repository\bin\Debug\net6.0\Maze.Entity.dll
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Repository\bin\Debug\net6.0\Maze.Entity.pdb
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Repository\obj\Debug\net6.0\Maze.Repository.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Repository\obj\Debug\net6.0\Maze.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Repository\obj\Debug\net6.0\Maze.Repository.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Repository\obj\Debug\net6.0\Maze.Repository.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Repository\obj\Debug\net6.0\Maze.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Repository\obj\Debug\net6.0\Maze.Repository.csproj.CopyComplete
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Repository\obj\Debug\net6.0\Maze.Repository.dll
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Repository\obj\Debug\net6.0\refint\Maze.Repository.dll
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Repository\obj\Debug\net6.0\Maze.Repository.pdb
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Repository\obj\Debug\net6.0\ref\Maze.Repository.dll

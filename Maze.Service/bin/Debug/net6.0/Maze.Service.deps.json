@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Maze.Service/1.0.0": {
+        "dependencies": {
+          "Maze.Entity": "1.0.0",
+          "Maze.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Maze.Service.dll": {}
+        }
+      },
+      "Maze.Entity/1.0.0": {
+        "runtime": {
+          "Maze.Entity.dll": {}
+        }
+      },
+      "Maze.Repository/1.0.0": {
+        "dependencies": {
+          "Maze.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Maze.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maze.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Maze.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Maze.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

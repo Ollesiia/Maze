@@ -20,7 +20,7 @@ namespace Maze.Entity
 
         public override string ToString()
         {
-            return "Type: " + ArtifactType + " {" + X + ", " + Y + "}";
+            return ArtifactType + " {" + X + ", " + Y + "}";
         }
     }
 }

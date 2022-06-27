@@ -18,7 +18,6 @@ namespace Maze.Entity
             this.Id = Guid.NewGuid().ToString();
         }
 
-        //ToDo: write more informative 
         public override string ToString()
         {
             return "Wall {" + X + ", " + Y + "}";

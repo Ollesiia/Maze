@@ -1,0 +1,12 @@
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Entity\bin\Debug\net6.0\Maze.Entity.deps.json
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Entity\bin\Debug\net6.0\Maze.Entity.dll
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Entity\bin\Debug\net6.0\Maze.Entity.pdb
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Entity\obj\Debug\net6.0\Maze.Entity.csproj.AssemblyReference.cache
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Entity\obj\Debug\net6.0\Maze.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Entity\obj\Debug\net6.0\Maze.Entity.AssemblyInfoInputs.cache
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Entity\obj\Debug\net6.0\Maze.Entity.AssemblyInfo.cs
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Entity\obj\Debug\net6.0\Maze.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Entity\obj\Debug\net6.0\Maze.Entity.dll
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Entity\obj\Debug\net6.0\refint\Maze.Entity.dll
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Entity\obj\Debug\net6.0\Maze.Entity.pdb
+C:\Users\Dmitry\Desktop\Maze-\Maze-master\Maze.Entity\obj\Debug\net6.0\ref\Maze.Entity.dll
